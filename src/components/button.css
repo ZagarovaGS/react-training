@@ -1,0 +1,17 @@
+.button {
+  background-color: violet;
+  padding: 10px 20px;
+  margin-top: 20px;
+}
+
+.button_yellow {
+  background-color: yellow;
+}
+
+.button_green {
+  background-color: green;
+}
+
+.button_sienna {
+  background-color: sienna;
+}

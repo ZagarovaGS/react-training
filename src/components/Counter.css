@@ -1,0 +1,10 @@
+.btn {
+  padding: 5px;
+}
+
+.btn_green {
+  background-color: springgreen;
+}
+.btn_red {
+  background-color: tomato;
+}
